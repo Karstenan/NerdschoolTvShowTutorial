@@ -1,0 +1,25 @@
+{
+  "name": "ns-tvshow-tutorial",
+  "version": "1.0.0",
+  "description": "Building a REST-based web server for nerdschool tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karstenan/NerdschoolTvShowTutorial.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "web",
+    "fun"
+  ],
+  "author": "Karsten A.S. Sætre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karstenan/NerdschoolTvShowTutorial/issues"
+  },
+  "homepage": "https://github.com/Karstenan/NerdschoolTvShowTutorial#readme"
+}
